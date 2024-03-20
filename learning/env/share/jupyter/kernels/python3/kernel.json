@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "C:/a/Machine_learning/Machine_learning/learning/env\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": false
+ }
+}
